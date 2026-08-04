@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mqtt": "^5.15.2",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18"
